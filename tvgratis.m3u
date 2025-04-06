@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Abertos" tvg-logo="", Globo SP
+https://video02.logicahost.com.br:19360/globotv/globotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Abertos" tvg-logo="", Globo RJ
+https://video02.logicahost.com.br:19360/tvglobo/tvglobo/playlist.m3u8
+
+#EXTINF:-1 group-title="Abertos" tvg-logo="", SBT SP
+https://playplus-sbt.cdn.abcd.com.br/sbtsp/sbtsp/playlist.m3u8
+
+#EXTINF:-1 group-title="Abertos" tvg-logo="", Record SP
+https://playplus-recor.sp.cdn.abcd.com.br/recordsp/recordsp/playlist.m3u8
+
+#EXTINF:-1 group-title="Abertos" tvg-logo="", Record RJ
+https://stream.recordtv.rj/recordrj/playlist.m3u8
+
+#EXTINF:-1 group-title="Abertos" tvg-logo="", Band SP
+https://stream.band.com.br/live/smil:band.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Abertos" tvg-logo="", Band RJ
+https://stream.band.com.br/live/smil:bandrj.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Abertos" tvg-logo="", RedeTV!
+https://cdn.jmvstream.com/live/REDETV/REDETV/playlist.m3u8
+
+#EXTINF:-1 group-title="Abertos" tvg-logo="", TV Cultura
+https://cultura01.logicahost.com.br:19360/tvcultura/tvcultura/playlist.m3u8
+
+#EXTINF:-1 group-title="Fechados" tvg-logo="", Space
+https://stmv1.paineltv.net/space/space/playlist.m3u8
+
+#EXTINF:-1 group-title="Fechados" tvg-logo="", Cartoon Network
+https://stmv1.paineltv.net/cartoon/cartoon/playlist.m3u8
+
+#EXTINF:-1 group-title="Fechados" tvg-logo="", ESPN Brasil
+https://stmv1.paineltv.net/espnbr/espnbr/playlist.m3u8
+
+#EXTINF:-1 group-title="Fechados" tvg-logo="", Telecine Pipoca
+https://stmv1.paineltv.net/pipoca/pipoca/playlist.m3u8
+
+#EXTINF:-1 group-title="Fechados" tvg-logo="", Discovery Channel
+[  ] https://stmv1.paineltv.net/discovery/discovery/playlist.m3u8
