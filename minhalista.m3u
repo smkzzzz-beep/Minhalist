@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="band.sp" group-title="Esportes",Band (Jogo Aberto, transmissões)
+http://stmv1.srvstm.com/band/band/playlist.m3u8
+
+#EXTINF:-1 tvg-id="espn.br" group-title="Esportes",ESPN Brasil
+http://paineltv.xyz:8080/live/esportes/espnbr.m3u8
+
+#EXTINF:-1 tvg-id="espn2.br" group-title="Esportes",ESPN 2
+http://paineltv.xyz:8080/live/esportes/espn2.m3u8
+
+#EXTINF:-1 tvg-id="espn3.br" group-title="Esportes",ESPN 3
+http://paineltv.xyz:8080/live/esportes/espn3.m3u8
+
+#EXTINF:-1 tvg-id="espn4.br" group-title="Esportes",ESPN 4 (Ex-Fox Sports)
+http://paineltv.xyz:8080/live/esportes/espn4.m3u8
+
+#EXTINF:-1 tvg-id="sportv1.br" group-title="Esportes",SporTV 1
+http://paineltv.xyz:8080/live/esportes/sportv1.m3u8
+
+#EXTINF:-1 tvg-id="sportv2.br" group-title="Esportes",SporTV 2
+http://paineltv.xyz:8080/live/esportes/sportv2.m3u8
+
+#EXTINF:-1 tvg-id="sportv3.br" group-title="Esportes",SporTV 3
+http://paineltv.xyz:8080/live/esportes/sportv3.m3u8
+
+#EXTINF:-1 tvg-id="band.sports" group-title="Esportes",BandSports
+http://paineltv.xyz:8080/live/esportes/bandsports.m3u8
+
+#EXTINF:-1 tvg-id="combate" group-title="Esportes",Combate
+http://paineltv.xyz:8080/live/esportes/combate.m3u8
+
+#EXTINF:-1 tvg-id="sportingnews" group-title="Esportes",Sporting News (Futebol gringo)
+https://dai.google.com/linear/hls/event/sporting.m3u8
+
+#EXTINF:-1 tvg-id="bein.sports" group-title="Esportes",Bein Sports
+https://dai.google.com/linear/hls/event/bein.m3u8
+
+#EXTINF:-1 tvg-id="premiereclubes" group-title="Esportes",Premiere Clubes
+http://paineltv.xyz:8080/live/esportes/premiere.m3u8
+
+#EXTINF:-1 tvg-id="premiere1" group-title="Esportes",Premiere 1
+http://paineltv.xyz:8080/live/esportes/premiere1.m3u8
+
+#EXTINF:-1 tvg-id="premiere2" group-title="Esportes",Premiere 2
+http://paineltv.xyz:8080/live/esportes/premiere2.m3u8
+
+#EXTINF:-1 tvg-id="premiere3" group-title="Esportes",Premiere 3
+http://paineltv.xyz:8080/live/esportes/premiere3.m3u8
+
+#EXTINF:-1 tvg-id="premiere4" group-title="Esportes",Premiere 4
+http://paineltv.xyz:8080/live/esportes/premiere4.m3u8
+
+#EXTINF:-1 tvg-id="premiere5" group-title="Esportes",Premiere 5
+http://paineltv.xyz:8080/live/esportes/premiere5.m3u8
+
+#EXTINF:-1 tvg-id="premiere6" group-title="Esportes",Premiere 6
+http://paineltv.xyz:8080/live/esportes/premiere6.m3u8
+
+#EXTINF:-1 tvg-id="premiere7" group-title="Esportes",Premiere 7
+http://paineltv.xyz:8080/live/esportes/premiere7.m3u8
+
+#EXTINF:-1 tvg-id="premiere8" group-title="Esportes",Premiere 8
+http://paineltv.xyz:8080/live/esportes/premiere8.m3u8
+
+#EXTINF:-1 tvg-id="premiere9" group-title="Esportes",Premiere 9
+http://paineltv.xyz:8080/live/esportes/premiere9.m3u8
+
+#EXTINF:-1 tvg-id="premiere10" group-title="Esportes",Premiere 10
+http://paineltv.xyz:8080/live/esportes/premiere10.m3u8
